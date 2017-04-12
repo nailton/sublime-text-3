@@ -3,8 +3,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Dictionaries",
-		"Tag"
 	],
 	"installed_packages":
 	[
@@ -19,11 +17,9 @@
 		"BracketHighlighter",
 		"CodeIgniter Snippets",
 		"CodeIgniter Utilities",
-		"ColorHelper",
 		"Comment-Snippets",
 		"Comments Aware Enter",
 		"CTags",
-		"Dictionaries",
 		"DocBlockr",
 		"DocPHPManualer",
 		"eCSStractor",
@@ -38,7 +34,6 @@
 		"HTML-CSS-JS Prettify",
 		"HTMLBeautify",
 		"Javascript Beautify",
-		"JavaScript Completions",
 		"JavaScript Snippets",
 		"Jekyll",
 		"jQuery",
@@ -48,6 +43,8 @@
 		"Laravel Bootstrapper Snippets",
 		"Laravel Forms Bootstrap Snippets",
 		"Markdown Preview",
+		"Material Theme",
+		"Materialize",
 		"MySQL Snippets",
 		"Package Control",
 		"PHP Comment Wrap",
@@ -63,9 +60,9 @@
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"SublimeTmpl",
-		"Tag",
 		"Theme - Cobalt2",
 		"Theme - Lanzhou",
+		"Theme - One Dark",
 		"WordPress",
 		"WordPress Developer Resources"
 	]
