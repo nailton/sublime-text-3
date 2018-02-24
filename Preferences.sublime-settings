@@ -41,7 +41,7 @@
 	"caret_extra_top": 1,
 	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Foculor/Monokai foculor.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -90,13 +90,13 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Roboto Mono Medium",
+	"font_face": "Fira Code Medium",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 15,
+	"font_size": 13,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -104,7 +104,9 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Package Control",
+		"Deviot (Arduino IDE)",
+		"PHP Comment Wrap",
+		"phpfmt",
 		"Vintage"
 	],
 	"indent_guide_options":

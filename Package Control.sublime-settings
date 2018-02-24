@@ -1,5 +1,4 @@
 {
-	"auto_upgrade_last_run": null,
 	"bootstrapped": true,
 	"in_process_packages":
 	[
@@ -11,7 +10,6 @@
 		"AutoFileName",
 		"Autoprefixer",
 		"Blade Snippets",
-		"Blade Spacer",
 		"Bootstrap 3 Jade Snippets",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
@@ -20,6 +18,7 @@
 		"Comment-Snippets",
 		"Comments Aware Enter",
 		"CTags",
+		"Deviot (Arduino IDE)",
 		"DocBlockr",
 		"DocPHPManualer",
 		"eCSStractor",
@@ -27,11 +26,13 @@
 		"EditorConfigSnippets",
 		"Emmet",
 		"Emmet Css Snippets",
+		"FileDiffs",
 		"Git",
 		"GitGutter",
 		"Gitignore",
 		"HTML Boilerplate",
 		"HTML-CSS-JS Prettify",
+		"HTML5",
 		"HTMLBeautify",
 		"Javascript Beautify",
 		"JavaScript Snippets",
@@ -40,11 +41,10 @@
 		"JsFormat",
 		"Laravel 5 Snippets",
 		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
 		"Laravel Bootstrapper Snippets",
 		"Laravel Forms Bootstrap Snippets",
 		"Markdown Preview",
-		"Material Theme",
-		"Materialize",
 		"MySQL Snippets",
 		"Package Control",
 		"PHP Comment Wrap",
@@ -57,13 +57,10 @@
 		"Search WordPress Codex or QueryPosts",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
 		"SublimeLinter-php",
 		"SublimeTmpl",
-		"Theme - Cobalt2",
-		"Theme - Lanzhou",
-		"Theme - One Dark",
 		"WordPress",
-		"WordPress Developer Resources"
+		"WordPress Developer Resources",
+		"WordPress Generate Salts"
 	]
 }
