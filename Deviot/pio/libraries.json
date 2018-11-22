@@ -1,0 +1,27 @@
+[
+    [
+        "LiquidCrystal_I2C", 
+        "A library for I2C LCD displays.", 
+        "576 | arduino "
+    ], 
+    [
+        "LiquidCrystal_I2C", 
+        "A library for I2C LCD displays.", 
+        "576 | arduino "
+    ], 
+    [
+        "LiquidCrystal", 
+        "LiquidCrystal Library is faster and extensable, compatible with the original LiquidCrystal library", 
+        "136 | arduino "
+    ], 
+    [
+        "TimerOne", 
+        "Use hardware Timer1 for finer PWM control and/or running an periodic interrupt function", 
+        "131 | arduino "
+    ], 
+    [
+        "SimpleTimer", 
+        "SimpleTimer Library for Arduino", 
+        "419 | arduino "
+    ]
+]

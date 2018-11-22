@@ -37,11 +37,12 @@
 		"*.idea"
 	],
 	"bold_folder_labels": true,
-	"caret_extra_bottom": 1,
+	"caret_extra_bottom": 3,
 	"caret_extra_top": 1,
+	"caret_extra_width": 2,
 	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Foculor/Monokai foculor.tmTheme",
+	"color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -96,7 +97,7 @@
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -104,9 +105,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Deviot (Arduino IDE)",
-		"PHP Comment Wrap",
 		"phpfmt",
+		"sublimelint",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -150,7 +150,7 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"trailing_spaces_include_current_line": false,
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
