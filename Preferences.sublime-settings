@@ -19,6 +19,12 @@
 	"auto_complete_with_fields": true,
 	"auto_indent": true,
 	"auto_match_enabled": true,
+	"auto_save_all_files": true,
+	"auto_save_backup": false,
+	"auto_save_backup_suffix": "autosave",
+	"auto_save_current_file": "",
+	"auto_save_delay_in_seconds": 1,
+	"auto_save_on_modified": true,
 	"binary_file_patterns":
 	[
 		"*.jpg",
@@ -42,7 +48,7 @@
 	"caret_extra_width": 2,
 	"caret_style": "blink",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -105,8 +111,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"phpfmt",
-		"sublimelint",
+		"Emmet",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -132,6 +137,8 @@
 	"match_brackets_square": true,
 	"match_selection": true,
 	"match_tags": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_separator": true,
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": true,
 	"overlay_scroll_bars": "enabled",
@@ -150,7 +157,7 @@
 	"spell_check": false,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"trailing_spaces_include_current_line": false,
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
@@ -162,6 +169,9 @@
 	"wombat_color_blue": true,
 	"wombat_dirty_bottom_bar_blue": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
-	"word_wrap": true,
-	"wrap_width": 80
+	"word_wrap": false,
+	"wrap_width":
+	[
+		"80"
+	]
 }

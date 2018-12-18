@@ -1,8 +1,18 @@
 [
     [
-        "LiquidCrystal_I2C", 
-        "A library for I2C LCD displays.", 
-        "576 | arduino "
+        "DallasTemperature", 
+        "Arduino Library for Dallas Temperature ICs (DS18B20, DS18S20, DS1822, DS1820)", 
+        "54 | arduino "
+    ], 
+    [
+        "SoftwareSerial", 
+        "ALPHA WORK IN PROGRESS. DO NOT USE IN PRODUCTION CODE. based on:\\\\ IAR Application Note G - 001 Generic Software UART\\\\ mbed/trunk/Serial.h\\\\ the venerable Andy Kirkham's MAX3100\\\\", 
+        "2728 | mbed "
+    ], 
+    [
+        "TimerOne", 
+        "Use hardware Timer1 for finer PWM control and/or running an periodic interrupt function", 
+        "131 | arduino "
     ], 
     [
         "LiquidCrystal_I2C", 
@@ -13,15 +23,5 @@
         "LiquidCrystal", 
         "LiquidCrystal Library is faster and extensable, compatible with the original LiquidCrystal library", 
         "136 | arduino "
-    ], 
-    [
-        "TimerOne", 
-        "Use hardware Timer1 for finer PWM control and/or running an periodic interrupt function", 
-        "131 | arduino "
-    ], 
-    [
-        "SimpleTimer", 
-        "SimpleTimer Library for Arduino", 
-        "419 | arduino "
     ]
 ]

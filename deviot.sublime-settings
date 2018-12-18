@@ -1,15 +1,14 @@
 {
 	"boards":
 	[
+		"usbasp",
 		"uno"
 	],
 	"compile_lang": false,
 	"lang_id": "en",
-	"last_path": "/media/export/ARDUINO",
-	"output_console": true,
-	"pio_structure": true,
+	"pio_structure": false,
 	"port_id": "/dev/ttyACM0",
 	"programmer_id": false,
 	"select_environment": "uno",
-	"send_persistent": false
+	"upload_speed": "38400"
 }
