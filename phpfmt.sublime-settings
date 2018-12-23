@@ -1,7 +1,7 @@
 {
 	"autocomplete": true,
 	"autoimport": true,
-	"enable_auto_align": false,
+	"enable_auto_align": true,
 	"format_on_save": true,
 	"ignore": "Parent",
 	"indent_with_space": 4,
