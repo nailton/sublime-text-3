@@ -8,12 +8,12 @@
 	"passes":
 	[
 		"ReindentSwitchBlocks",
-		"OrderAndRemoveUseClauses",
 		"PSR2EmptyFunction",
 		"StripSpaceWithinControlStructures",
 		"ShortArray",
 		"SpaceBetweenMethods",
-		"AutoSemicolon"
+		"AutoSemicolon",
+		"OrderAndRemoveUseClauses"
 	],
 	"php_bin": "/usr/bin/php",
 	"psr2": true,

@@ -8,6 +8,11 @@
         "command": "side_bar_new_file"
     },
     {
+        "keys": ["f11"],
+        "command": "toggle_full_screen"
+    },
+
+    {
         "keys": ["f12"],
         "command": "side_bar_open_in_browser",
         "args":
@@ -207,6 +212,10 @@
     {
         "keys": ["alt+r"],
         "command": "deviot_compile_sketch"
+    },
+    {
+        "keys": ["f12"],
+        "command": "toggle_menu"
     },
 
 ]
