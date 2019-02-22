@@ -42,7 +42,7 @@
 	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -91,7 +91,7 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Fira Code Medium",
+	"font_face": "Hasklig",
 	"font_options":
 	[
 		"subpixel_antialias",
@@ -107,7 +107,6 @@
 	"ignored_packages":
 	[
 		"Deviot (Arduino IDE)",
-		"Emmet",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -164,7 +163,6 @@
 	"word_wrap": true,
 	"wrap_width":
 	[
-		"80",
-		"120"
+		"80"
 	]
 }
