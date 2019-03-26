@@ -91,13 +91,13 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Hasklig Medium",
+	"font_face": "Hasklig-Regular",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"gpu_window_buffer": "auto",
 	"gravity_tab_height_short": true,
 	"gutter": true,
@@ -107,6 +107,8 @@
 	"ignored_packages":
 	[
 		"Deviot (Arduino IDE)",
+		"phpfmt",
+		"SublimeTmpl",
 		"Vintage"
 	],
 	"indent_guide_options":

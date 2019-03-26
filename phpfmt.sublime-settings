@@ -15,8 +15,8 @@
 		"AutoSemicolon",
 		"OrderAndRemoveUseClauses"
 	],
-	"php_bin": "/usr/bin/php",
-	"psr2": true,
+	"php_bin": "C:\\xampp\\php\\php.exe",
+	"psr2": false,
 	"smart_linebreak_after_curly": true,
 	"version": 4,
 	"visibility_order": true,
