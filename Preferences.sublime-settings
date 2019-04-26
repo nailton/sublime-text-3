@@ -97,7 +97,7 @@
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 12,
+	"font_size": 13,
 	"gpu_window_buffer": "auto",
 	"gravity_tab_height_short": true,
 	"gutter": true,
