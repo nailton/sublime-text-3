@@ -42,7 +42,7 @@
 	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity v2.sublime-color-scheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "system",
 	"detect_indentation": true,
@@ -91,13 +91,13 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Hasklig-Regular",
+	"font_face": "Hasklig-Medium",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 15,
 	"gpu_window_buffer": "auto",
 	"gravity_tab_height_short": true,
 	"gutter": true,
@@ -109,7 +109,8 @@
 		"Deviot (Arduino IDE)",
 		"phpfmt",
 		"SublimeTmpl",
-		"Vintage"
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"indent_guide_options":
 	[
@@ -124,8 +125,8 @@
 	],
 	"index_files": true,
 	"line_numbers": true,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
 	"margin": 0,
 	"match_brackets": true,
 	"match_brackets_angle": false,
