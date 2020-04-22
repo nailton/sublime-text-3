@@ -1,0 +1,27 @@
+{
+    "globals": {
+        "background": "#1e1f29"
+    }, 
+    "variables": {
+        "red": "#ff5555", 
+        "green": "#50fa7b", 
+        "light_black": "#555555", 
+        "caret": "#f8f8f2", 
+        "light_red": "#ff5555", 
+        "light_cyan": "#8be9fd", 
+        "brown": "#f1fa8c", 
+        "blue": "#bd93f9", 
+        "foreground": "#f8f8f2", 
+        "light_white": "#ffffff", 
+        "light_blue": "#bd93f9", 
+        "black": "#000000", 
+        "light_green": "#50fa7b", 
+        "background": "#1e1f2a", 
+        "light_brown": "#f1fa8c", 
+        "white": "#bbbbbb", 
+        "light_magenta": "#ff79c6", 
+        "cyan": "#8be9fd", 
+        "magenta": "#ff79c6"
+    }, 
+    "name": "Terminus"
+}

@@ -108,9 +108,9 @@
 	[
 		"Deviot (Arduino IDE)",
 		"phpfmt",
+		"SASS Build",
 		"SublimeTmpl",
-		"Vintage",
-		"zzz A File Icon zzz"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
