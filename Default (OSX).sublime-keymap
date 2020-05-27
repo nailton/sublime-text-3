@@ -3,5 +3,7 @@
       [
         { "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee" }
       ]
-    }
+    },
+    { "keys": ["f9"], "command": "expand_fqcn" },
+{ "keys": ["f10"], "command": "find_use" }
   ]

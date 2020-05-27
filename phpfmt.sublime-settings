@@ -15,10 +15,10 @@
 		"AutoSemicolon",
 		"OrderAndRemoveUseClauses"
 	],
-	"php_bin": "C:\\xampp\\php\\php.exe",
+	"php_bin": "/usr/local/bin/php",
 	"psr2": false,
 	"smart_linebreak_after_curly": true,
 	"version": 4,
 	"visibility_order": true,
-	"yoda": true
+	"yoda": true,
 }

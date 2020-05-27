@@ -13,7 +13,7 @@
 	[
 		{
 			"characters": "<",
-			"selector": "text.html"
+			"selector": "text.html",
 		}
 	],
 	"auto_complete_with_fields": true,
@@ -99,7 +99,6 @@
 	],
 	"font_size": 15,
 	"gpu_window_buffer": "auto",
-	"gravity_tab_height_short": true,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -107,10 +106,8 @@
 	"ignored_packages":
 	[
 		"Deviot (Arduino IDE)",
-		"phpfmt",
-		"SASS Build",
 		"SublimeTmpl",
-		"Vintage"
+		"Vintage",
 	],
 	"indent_guide_options":
 	[
@@ -142,6 +139,7 @@
 	"remember_open_files": true,
 	"rulers":
 	[
+		100
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
@@ -166,6 +164,6 @@
 	"word_wrap": true,
 	"wrap_width":
 	[
-		"80"
-	]
+		100
+	],
 }
