@@ -106,7 +106,6 @@
 	"ignored_packages":
 	[
 		"Deviot (Arduino IDE)",
-		"SublimeTmpl",
 		"Vintage"
 	],
 	"indent_guide_options":
