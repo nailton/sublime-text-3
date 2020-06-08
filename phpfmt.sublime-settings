@@ -20,5 +20,5 @@
 	"smart_linebreak_after_curly": true,
 	"version": 4,
 	"visibility_order": true,
-	"yoda": true,
+	"yoda": true
 }

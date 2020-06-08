@@ -77,10 +77,10 @@
 		"Vuejs Snippets Airbnb",
 		"WordPress",
 		"WordPress Developer Resources",
-		"WordPress Salts",
+		"WordPress Salts"
 	],
 	"repositories":
 	[
 		"https://github.com/emmetio/sublime-text-plugin/releases/latest/download/registry.json"
-	],
+	]
 }

@@ -13,7 +13,7 @@
 	[
 		{
 			"characters": "<",
-			"selector": "text.html",
+			"selector": "text.html"
 		}
 	],
 	"auto_complete_with_fields": true,
@@ -107,7 +107,7 @@
 	[
 		"Deviot (Arduino IDE)",
 		"SublimeTmpl",
-		"Vintage",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -165,5 +165,5 @@
 	"wrap_width":
 	[
 		100
-	],
+	]
 }
