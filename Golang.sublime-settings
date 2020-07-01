@@ -1,0 +1,4 @@
+// Any settings in this file overrides the default ones
+{
+  "root": "/usr/local/go/bin"
+}

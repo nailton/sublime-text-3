@@ -1,6 +1,6 @@
 {
 	"autocomplete": true,
-	"autoimport": true,
+	"autoimport": false,
 	"enable_auto_align": true,
 	"format_on_save": true,
 	"ignore": "Parent",
