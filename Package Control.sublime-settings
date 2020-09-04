@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"10% Too Dull for My Tastes Color Scheme",
 		"A File Icon",
 		"All Autocomplete",
 		"ApplySyntax",
@@ -18,6 +19,8 @@
 		"CTags",
 		"Deviot (Arduino IDE)",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Dracula Color Scheme",
 		"EditorConfig",
 		"Emmet",
 		"FileDiffs",
@@ -52,7 +55,8 @@
 		"SublimeLinter-php",
 		"SublimeTmpl",
 		"TerminalView",
-		"Theme - Gravity",
+		"Terminus",
+		"Theme - One Dark",
 		"Vue Syntax Highlight",
 		"Vuejs Snippets Airbnb",
 		"WordPress"
